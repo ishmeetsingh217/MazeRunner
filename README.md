@@ -43,6 +43,6 @@ How To Run Guide
 
 python main.py mediumMaze.txt --method bfs
 
-// You can change the maze by adding a sequence of maze to .txt file and instead of mediumMaze.txt , we can put the desired file.
+// You can change the maze by adding a sequence of maze to .txt file and instead of mediumMaze.txt, we can put the desired file.
 // The algorithm works with 4 searches Depth-first Search, Breadth-first Search, Greedy Best-First Search and A* search.
 // Method can be changed by changing the method name in the command to either dfs or bfs or greedy or astar.
