@@ -1,5 +1,5 @@
 # MazeRunner
-This Algorithm lets you find a maze through any maze using the following algorithms : DFS, BFS. Greedy and A* .
+This Algorithm lets you find a path through any maze using the following algorithms : DFS, BFS. Greedy and A* .
 It will help you find the path cost with the number of expanded nodes and create a visual of the maze using pygame.
 
 
